@@ -1,0 +1,11 @@
+<resources>
+<!--    <string name="app_name">test</string>-->
+    <string name="app_name">lab1</string>
+    <string name="content">
+        Android - Application Componentns: \n
+        1. Activity \n
+        2. Services \n
+        3. ContentProvider \n
+        4. BroadCastReceive
+    </string>
+</resources>

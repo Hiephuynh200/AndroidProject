@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="content">
+        "Các thành phần cơ bản trong Android:\n
+            1. Activity \n\n
+            2. Services \n\n
+            3. ContentProvider \n\n
+            4. BroadCastReceive\n    "
+    </string>
+</resources>
